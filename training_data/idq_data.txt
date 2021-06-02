@@ -1,0 +1,785 @@
+Hi there
+Hello! Thanks for reaching out to us, how may i assist you
+Hello 
+Hello! Thanks for reaching out to us, how may i assist you
+Hello there
+Hello! Thanks for reaching out to us, how may i assist you
+Greeting
+Hello! Thanks for reaching out to us, how may i assist you
+Style Guide
+Please provide Product Type name only, one at time
+I need help in finding Style Guide
+Please provide Product Type name only, one at time
+I need help in finding cellular phone case Style Guide
+Please provide Product Type name only, one at time
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+CELLULAR_PHONE_CASE.pdf" target="_blank" >here</a>, Are you happy with recommedation? 
+cellular phone
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Cellular+Phone+Styleguide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+wearable computer
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+WEARABLE_COMPUTER.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+mouse pad
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+MOUSE_PAD.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+input pen
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Input+Pen.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+monitor
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+MONITOR.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+notebook
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/STYLE+GUIDE+NOTEBOOK.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+tablet computer
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/STYLE+GUIDE+TABLET_COMPUTER.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+computer component
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Styleguide+Computer+Component.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+pc monitors
+<a href="https://m.media-amazon.com/images/G/31/rainer/PC_Monitors_Style_Guide._CB1198675309_.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+printer ink
+<a href="https://m.media-amazon.com/images/G/31/rainer/Printer_ink_StyleGuide._CB1198675309_.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+printers
+<a href="https://m.media-amazon.com/images/G/31/rainer/Printers_StyleGuide._CB1198675309_.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+computer video game controller
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/COMPUTER_VIDEO_GAME_CONTROLLER+Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+multiport hub
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Multiport+Hub.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+motherboard
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+MOTHERBOARD.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+computer processor
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+COMPUTER_PROCESSOR.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+system cabinet
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+SYSTEM_CABINET.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+system power device
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+SYSTEM_POWER_DEVICE.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+input mouse
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Input+Mouse.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+ram memory
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+RAM+Memory.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+headphones
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Headphones.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+security camera
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+SECURITY_CAMERA.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+ceandaccessories
+<a href="https://s3-us-west-2.amazonaws.com/amazonindia/CEAndAccessories.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+landline phone
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+Landline_Phone.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+unmanned aerial vehicle
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+UNMANNED_AERIAL_VEHICLE.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+graphic tablet
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+GRAPHIC_TABLET.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+ceandaccessories
+<a href="https://m.media-amazon.com/images/G/31/rainier/help/CEAndAccessories._CB1198675309_.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+electronic device skin
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+ELECTRONIC_DEVICE_SKIN.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+computer input device
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+COMPUTER_INPUT_DEVICE.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+video card
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+VIDEO_CARD.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+printer
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+PRINTER.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+flash drive
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+FLASH_DRIVE.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+power supply
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+POWER+SUPPLY.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+electronic device docking station
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+ELECTRONIC+DEVICE+DOCKING+STATION+V1.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+camera digital
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+CAMERA+DIGITAL.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+keyboards
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Keyboards.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+speakers
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Speakers.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+portable electronic device cover
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+PORTABLE_ELECTRONIC_DEVICE_COVER.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+portable electronic device stand
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Portable+Electronic+Device+Stand.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+electronic adaptor
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Electronic+Adaptor.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+computer drive or storage
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Computer+Drive+or+Storage.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+networking router
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Networking+Router.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+power supplies or protection
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/POWER_SUPPLIES_OR_PROTECTION+Styleguide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+screen protector
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Screen+Protector+Styleguide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+chargers
+<a href="https://m.media-amazon.com/images/G/31/rainer/Chargers_Style_Guide._CB1198675309_.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+data cables
+<a href="https://m.media-amazon.com/images/G/31/rainer/Data_Cables_Style_Guide._CB1198675309_.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+power bank
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Power+Bank+Guideline.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+charging adapter
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Charging+Adapter+Guideline.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+phone accessory
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+PHONE_ACCESSORY.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+video projector
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Video+Projector+Styleguide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+television
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+TELEVISION.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+office products
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+OFFICE+PRODUCTS.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+calculator
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Calculator.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+calendar
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Calendar.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+envelope
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+ENVELOPE.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+file folder
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+File+Folder.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+greeting card
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Greeting+Card.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+pinboard
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+PINBOARD.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+planner
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Planner.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+stapler
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Stapler.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+storage binder
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+STORAGE_BINDER.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+writing board
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Writing+Board.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+writing instrument
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Writing+Instrument.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+toys and babies
+<a href="https://s3-us-west-2.amazonaws.com/amazonindia/Toys+and+Babies.docx>here</a>, Are you happy with recommedation? 
+baby product
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+BABY_PRODUCT.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+stroller
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+STROLLER.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+infant toddler car seat
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-INFANT_TODDLER_CAR_SEAT.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+baby bottle
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+BABY+BOTTLE.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+beauty
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+BEAUTY.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+saree
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Saree+Style+Guide.html>here</a>, Are you happy with recommedation? 
+sunscreen
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+SUNSCREEN+V1.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+body deodorant
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+BODY_DEODORANT.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+hair cleaner conditioner
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+HAIR+CLEANER+CONDITIONER+V1.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+hairband
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-HAIRBAND.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+make up
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+MAKE+UP.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+skin treatment mask
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+SKIN+TREATMENT+MASK.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+shampoo
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+SHAMPOO.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+conditioner
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+CONDITIONER.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+hair coloring agent
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+HAIR+COLORING+AGENT.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+hair care product
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Hair_Care_Product.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+body care product
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+BODY_CARE_PRODUCT.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+skin cleaning agent
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+SKIN+CLEANING+AGENT.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+nail polish
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Nail+Polish.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+lip color
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Lip+color.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+lip balm
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Lip+Balm.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+skin moisturizer
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Skin+Moisturizer.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+fragrance
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+FRAGRANCE.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+cosmetic brush
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Cosmetic+Brush.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+hair removal agent
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Hair+Removal+Agent.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+hair removal and shaving agent
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Hair+Removal+and+Shaving+Agent.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+grocery
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Grocery+Styleguide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+breakfast cereal
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+BREAKFAST_CEREAL.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+baby food
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+BABY_FOOD.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+dietary supplement
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+DIETARY+SUPPLEMENT.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+nutritional supplement
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Nutritional+Supplement-+Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+candy
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Candy.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+chocolate candy
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+CHOCOLATE_CANDY.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+coffee
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Coffee.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+edible oil vegetable
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Edible+Oil+Vegetable.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+herb
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Herb.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+nuts and seeds
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Nuts+and+Seeds.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+tea
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Tea.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+hpc
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/HPC_Style_Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+health personal care
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+HEALTH_PERSONAL_CARE.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+personal care appliance
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+PERSONAL_CARE_APPLIANCE.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+tooth cleaning agent
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+TOOTH+CLEANING+AGENT.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+prescription drug
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+PRESCRIPTION_DRUG.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+mouthwash
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Mouthwash.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+incontinence protector
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+INCONTINENCE_PROTECTOR.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+laundry detergent
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+LAUNDRY_DETERGENT.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+cleaning agent
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Cleaning+Agent.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+dishwasher detergent
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+DISHWASHER_DETERGENT.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+hair dryer
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Hair+Dryer.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+hair iron
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+HAIR+IRON.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+massager
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Massager.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+sanitary napkin
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+SANITARY_NAPKIN.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+menstrual cup
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+MENSTRUAL_CUP.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+animal collar
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-ANIMAL_COLLAR.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+pet supplies
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Pet+Supplies.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+pet food
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/STYLE+GUIDE+Pet+Food.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+toy building block
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Toy+Building+Block.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+balloon
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/STYLE+GUIDE+Balloon.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+non riding toy vehicle
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+NON_RIDING_TOY_VEHICLE.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+ride on toy
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide++Ride+on+toy.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+board game
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+Board+Game.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+puzzle
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+Puzzle.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+toys and games
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+TOYS_AND_GAMES.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+toy figure
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+TOY+FIGURE.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+saree
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Saree.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+kurta
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Kurta.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+womenethnicwear
+<a href="https://m.media-amazon.com/images/G/31/rainer/styleguide_womenethnicwear._CB1198675309_.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+choli
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Choli.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+lehenga choli set
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Lehenga+Choli+Set.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+salwar suit set
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Salwar+Suit+Set.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+womenwesternwear
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/styleguide_womenwesternwear.V!.docx>here</a>, Are you happy with recommedation? 
+dress
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Dress.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+skirt
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Skirt.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+shirt
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Shirt.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+shorts
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Shorts.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+pant
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Pant.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+suit
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+SUIT.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+blazer
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Blazer.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+coat
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Coat.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+sweatshirt
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+SWEATSHIRT.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+sweater
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Sweater.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+socks
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+SOCKS.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+apparel belt
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Apparel+Belt.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+dupatta
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Dupatta.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+scarves
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Scarves.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+necktie
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Necktie.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+gloves
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Gloves.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+hat
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+HAT.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+intimatewear
+<a href="https://m.media-amazon.com/images/G/31/rainer/styleguide_intimatewear._CB1198675309_.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+bra
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Bra.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+underpants
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+UNDERPANTS.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+undergarment slip
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Undergarment+slip.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+swimwear
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Swimwear.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+bodystocking
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+BODYSTOCKING.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+camisole
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Camisole.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+nightgown nightshirt
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Nightgown+Nightshirt.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+tights
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Tights.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+track suit
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Track+suit.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+pajamas
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+PAJAMAS.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+sleepwear pajama top
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+SLEEPWEAR+PAJAMA+TOP.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+men casual top wear
+<a href="https://m.media-amazon.com/images/G/01/rainer/style_guide_for_men_casual_top_wear._CB1198675309_.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+men formalwear
+<a href="https://m.media-amazon.com/images/G/01/rainer/style_guide_for_men_formalwear._CB1198675309_.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+men casual bottomwear
+<a href="https://m.media-amazon.com/images/G/01/rainer/style_guide_for_men_casual_bottomwear._CB1198675309_.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+men unstitched fabric
+<a href="https://m.media-amazon.com/images/G/01/rainer/style_guide_for_men_unstitched_fabric._CB1198675309_.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+kids wear
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/style_guides_for_kids_wear.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+jewellery sample file
+<a href="https://images-na.ssl-images-amazon.com/images/G/31/rainier/help/Jewellery_Sample_File._CB302315108_.xlsx>here</a>, Are you happy with recommedation? 
+jewelry
+<a href="https://s3-us-west-2.amazonaws.com/amazonindia/Jewelry+Style+Guide_v1.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+necklace
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Necklace.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+bracelet
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Bracelet.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+earring
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+EARRING.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+ring
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Ring.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+jewelry set
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+JEWELRY_SET.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+boot
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Boot.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+slipper
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Slipper.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+shoes
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Shoes.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+technical sports shoe
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+TECHNICAL+SPORTS+SHOE.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+sandal
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Sandal.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+handbags
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Handbags.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+luggage
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+LUGGAGE.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+backpack
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Backpack.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+suitcase
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+SUITCASE.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+wallet
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+WALLET.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+watch
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Watch.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+sunglasses
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Sunglasses.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+eyeglass frame
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Eyeglass+frame+Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+corrective eyeglasses
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+CORRECTIVE_EYEGLASSES.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+watchband
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Watchband.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+air cooler
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Air+Cooler.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+air fryer
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+AIR+FRYER.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+air purifier
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+AIR+PURIFIER.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+bakeware
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/BAKEWARE+Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+baking cup
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+BAKING+Cup.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+baking pan
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/BAKING_PAN+Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+baking paper
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/BAKING+PAPER+Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+bottle
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Bottle+Styleguide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+casserole
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Casserole+Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+cooking pot
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Cooking+Pot.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+cookware
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Cookware.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+countertop burner
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Countertop+Burner+Styleguide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+countertop oven
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Countertop+Oven.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+dinnerware
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Dinnerware.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+dishware bowl
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+DISHWARE+BOWL.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+dishware place setting
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/DISHWARE+PLACE+SETTING+Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+dishware plates
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Dishware+Plates.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+drinking cup
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Drinking+Cup+Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+electric fan
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+Electric+fan.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+electric water boiler
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/ELECTRIC_WATER_BOILER_Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+food blender
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Food+Blender+Styleguide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+food mixer
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/FOOD+MIXER+Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+food processor
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Food+Processor+Styleguide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+food slicer
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Food+Slicer.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+heating stove
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Heating+Stove.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+kitchen
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Kitchen+Styleguide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+kitchen knife
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/KITCHEN_KNIFE_Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+kitchen tools
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Kitchen+Tools+Styleguide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+kitchen block set
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Kitchen+Block+Set_Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+light bulb
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+Light+Bulb.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+meal holder
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+MEAL_HOLDER.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+pressure cooker
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Pressure+Cooker.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+rice cookers
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/RICE+COOKERS+Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+roasting pan
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Roasting+Pan+Styleguide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+rug
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+RUG.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+saute fry pan
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+SAUTE_FRY_PAN.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+serveware
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/SERVEWARE+Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+small home appliances
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+SMALL_HOME_APPLIANCES.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+space heater
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Space+Heater+Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+thermos
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+Thermos.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+toaster
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Toaster+Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+water purification unit
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Water+Purification+Unit.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+vacuum cleaner
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+VACUUM_CLEANER.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+automotive
+<a href="https://images-na.ssl-images-amazon.com/images/G/31/rainier/help/AutomotiveStyleGuides.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+auto parts
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Auto+Parts.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+steering wheel cover
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+STEERING_WHEEL_COVER.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+vehicle cover
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+VEHICLE+COVER.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+vehicle horn
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+VEHICLE+Horn.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+vehicle light bulb
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+VEHICLE_LIGHT_BULB.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+vehicle light assembly
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+VEHICLE_LIGHT_ASSEMBLY.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+vehicle mat
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+VEHICLE_MAT+V1.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+vehicle mirror
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+VEHICLE+MIRROR.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+vehicle seat cover
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+VEHICLE_SEAT_COVER.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+vehicle wrap
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+VEHICLE_WRAP.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+motorcycles
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+MOTORCYCLES.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+auto accessory
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+AUTO_ACCESSORY.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+auto oil
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Auto+oil.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+auto battery
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Auto+Battery.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+vehicle interior shade
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+VEHICLE_INTERIOR_SHADE.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+auto chemical
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Auto+Chemical.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+art and craft supply
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/ART+AND+CRAFT+SUPPLY_Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+artificial plant
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+ARTIFICIAL+PLANT.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+home bed and bath
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+HOME_BED_AND_BATH.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+bed linen
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Bed+Linen.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+bed linen set
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Bed+Linen+Set.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+flat sheet
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+Flat+Sheet.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+blanket
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+Blanket.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+bucket
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+BUCKET.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+candle
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Candle.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+candle holder
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+CANDLE+HOLDER.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+clock
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/STYLE+GUIDE+Clock.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+drying rack
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+DRYING_RACK.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+jars and containers
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Jars+and+Containers+Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+jewelry storage sg
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/JEWELRY_STORAGE+SG.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+curtain
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+Curtain.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+duvet
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Duvet+Styleguide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+figurine
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Figurine+Styleguide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+furniture cover
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Furniture+Cover.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+home decor
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Home+Decor.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+home storage
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Home+Storage.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+home lighting and lamps
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+HOME_LIGHTING_AND_LAMPS.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+lamp
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+Lamp.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+light fixture
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Light+Fixture.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+mattress cover
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+MATTRESS_COVER.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+pillow
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Pillow+Styleguide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+pillowcase
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/PillowCase+Styleguide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+planter
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Planter+Styleguide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+sticker decal
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+Sticker+Decal.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+string light
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/STYLE+GUIDE+String+Light.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+storage drawer and storage box
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+Storage+Drawer+And+Storage+Box.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+storage rack
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+Storage+Rack.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+towel
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+TOWEL.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+vase
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+VASE.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+wall art
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+Wall+Art.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+waste bag
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+Waste+Bag.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+air compressor
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Air+Compressor.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+drill
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+DRILL.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+faucet
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Faucet.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+hardware handle
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Hardware+Handle.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+hose pipe fitting
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+HOSE+PIPE+FITTING+V1.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+lock
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+LOCK.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+paint
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Paint.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+sander and saw
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+SANDER+And+SAW.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+screwdriver
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Screwdriver.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+screw gun
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Screw+Gun+-+Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+security electronics
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+SECURITY_ELECTRONICS+V1.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+shower head
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+Shower+Head.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+sink
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Sink.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+storage hook
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Storage+Hook.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+tools
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Tools-+Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+wallpaper
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Wallpaper.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+food service
+<a href="https://images-na.ssl-images-amazon.com/images/G/31/rainier/help/Food_Service_Style_Guide.docx>here</a>, Are you happy with recommedation? 
+industrial
+<a href="https://images-na.ssl-images-amazon.com/images/G/31/rainier/help/Industrial_Style_Guide.docx>here</a>, Are you happy with recommedation? 
+lab supply
+<a href="https://images-na.ssl-images-amazon.com/images/G/31/rainier/help/Lab_Supply_Style_Guide.docx>here</a>, Are you happy with recommedation? 
+mechanical fastners
+<a href="https://images-na.ssl-images-amazon.com/images/G/31/rainier/help/Mechanical_Fastners_Style_Guide.docx>here</a>, Are you happy with recommedation? 
+professional healthcare
+<a href="https://images-na.ssl-images-amazon.com/images/G/31/rainier/help/Professional_Healthcare_Style_Guide.docx>here</a>, Are you happy with recommedation? 
+cutting tools
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Cutting+Tools-+Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+medical device
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Medical+Device.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+power strip
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+POWER_STRIP.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+electronic cable
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+ELECTRONIC_CABLE.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+professional chemicals
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Professional+Chemicals.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+safety mask
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Safety+Mask.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+respirator
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+RESPIRATOR.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+thermometer
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Thermometer.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+3d printer
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+3D+Printer.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+safety supply
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+SAFETY_SUPPLY.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+bicycle
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Bicycle.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+bicycle trainer
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+BICYCLE_TRAINER.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+biometric monitor
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+BIOMETRIC_MONITOR.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+camping equipment
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+CAMPING_EQUIPMENT+V1.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+cycling equipment
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+CYCLING_EQUIPMENT.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+fitness bench
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/FITNESS+BENCH_Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+protective glove
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Protective_Glove.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+recreation ball
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+Recreation+ball.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+skateboard
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Skateboard.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+sleeping bag
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+SLEEPING+BAG.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+sport bat
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Sport+Bat.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+sport helmet
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+SPORT_HELMET.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+sport racket
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+Sport+Racket.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+sporting goods
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Sporting+Goods.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+stationary bicycle
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+STATIONARY_BICYCLE.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+tent
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+TENT.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+treadmill
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+TREADMILL.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+outdoor living
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+Outdoor_living.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+pest control device
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+PEST+CONTROL+DEVICE+V1.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+insect repellent
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+INSECT_REPELLENT.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+plant seed
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+PLANT+SEED.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+pressure washer
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Pressure+Washer.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+seeds and plants
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide-+SEEDS+AND+PLANTS.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+mattress
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Mattress+Guideline.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+furniture other sub category
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Furniture+Other+Sub+category+Guideline.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+sofa
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Sofa+Guideline.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+wardrobe
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Wardrobe+Guideline.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+dinning table
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Dinning+Table+Guideline.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+beds
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Beds+Guideline.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+desk
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Desk.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+bench
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Bench.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+bean bag chair
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+BEAN+BAG+CHAIR.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+chair
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Chair.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+dresser
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Dresser.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+shelf
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+SHELF.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+refrigerator
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Refrigerator.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+dishwasher
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+DISHWASHER.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+washer dryer combination
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+WASHER_DRYER_COMBINATION.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+washer
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+WASHER.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+air conditioner
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+-+Air+Conditioner.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+book
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Style+Guide+Book.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+movies
+<a href="https://images-na.ssl-images-amazon.com/images/G/31/rainier/help/Movies_Title_Style_Guide.docx>here</a>, Are you happy with recommedation? 
+music
+<a href="https://images-na.ssl-images-amazon.com/images/G/31/rainier/help/Music_Title_Style_Guide.docx>here</a>, Are you happy with recommedation? 
+software
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Software+Style+Guide.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+video games and accessories
+<a href="https://stylegd.s3-us-west-2.amazonaws.com/Video+Games+and+Accessories.pdf" target="_blank">here</a>, Are you happy with recommedation? 
+How to start selling on Amazon.in?
+Please refer to share links, which provide guidance on selling on Amazon.in <a href="https://sellercentral.amazon.in/learn/courses?ref_=su_course_accordion&moduleId=126bf3ab-f5fb-445c-89e9-d7297e66af25&courseId=1&modLanguage=English&videoPlayer=youtube" target="_blank">Launch your Business on Amazon</a>,<a href="https://sellercentral.amazon.in/learn/courses?ref_=su_course_accordion&moduleId=8892ba10-41ee-4fbf-925f-c765c4705c4c&courseId=1&modLanguage=English&videoPlayer=youtube" target="_blank">Introduction to Seller Central</a>, Are you happy with recommedation?
+Need guidance on selling product on Amazon.in
+Please refer to share links, which provide guidance on selling on Amazon.in <a href="https://sellercentral.amazon.in/learn/courses?ref_=su_course_accordion&moduleId=126bf3ab-f5fb-445c-89e9-d7297e66af25&courseId=1&modLanguage=English&videoPlayer=youtube" target="_blank">Launch your Business on Amazon</a>,<a href="https://sellercentral.amazon.in/learn/courses?ref_=su_course_accordion&moduleId=8892ba10-41ee-4fbf-925f-c765c4705c4c&courseId=1&modLanguage=English&videoPlayer=youtube" target="_blank">Introduction to Seller Central</a>, Are you happy with recommedation?
+Need help on selling product on Amazon.in
+Please refer to share links, which provide guidance on selling on Amazon.in <a href="https://sellercentral.amazon.in/learn/courses?ref_=su_course_accordion&moduleId=126bf3ab-f5fb-445c-89e9-d7297e66af25&courseId=1&modLanguage=English&videoPlayer=youtube" target="_blank">Launch your Business on Amazon</a>,<a href="https://sellercentral.amazon.in/learn/courses?ref_=su_course_accordion&moduleId=8892ba10-41ee-4fbf-925f-c765c4705c4c&courseId=1&modLanguage=English&videoPlayer=youtube" target="_blank">Introduction to Seller Central</a>, Are you happy with recommedation?
+How to start selling globally
+Please refer to share links, which provide guidance on global selling on Amazon <a href="https://sellercentral.amazon.in/gp/help/help.html?itemID=W6NFH9VGW4XGBAM&language=en_IN&ref=ag_W6NFH9VGW4XGBAM_cont_G201403390" target="_blank">Start Selling Globally</a>, Are you happy with recommedation?
+How to add a product which already exists on Amazon?
+Please refer to share links, which provide guidance on adding a product already exists on Amazon <a href="https://sellercentral.amazon.in/learn/courses?ref_=su_in_helphome_c3_m10&moduleId=10&modLanguage=English&videoPlayer=youtube" target="_blank">Add a product already exists on Amazon.in</a>, Are you happy with recommedation?
+How to add a new product on Amazon?
+Please refer to share links, which provide guidance on adding a new product on Amazon <a href="https://sellercentral.amazon.in/learn/courses?ref_=su_in_helphome_c3_m467&moduleId=467&modLanguage=English&videoPlayer=youtube" target="_blank">Create a new product on Amazon.in</a>, Are you happy with recommedation?
+How to prepare your product listings in bulk?
+Please refer to share links, which provide guidance on bulk listing on Amazon <a href="https://sellercentral.amazon.in/learn/courses?ref_=su_in_helphome_c3_m671&moduleId=671&modLanguage=English&videoPlayer=youtube" target="_blank">Prepare your listings in bulk on Amazon.in</a>, Are you happy with recommedation?
+How to add products using flat files?
+Please refer to share links, which provide guidance on add products using flat files <a href="https://sellercentral.amazon.in/learn/courses?ref_=su_in_helphome_c3_m114&moduleId=114&modLanguage=English&videoPlayer=youtube" target="_blank">Add products using flat files</a>, Are you happy with recommedation?
+How to add products with variations?
+Please refer to share links, which provide guidance on add products with variations <a href="https://sellercentral.amazon.in/learn/courses?ref_=su_in_helphome_c3_m13&moduleId=13&modLanguage=English&videoPlayer=youtube" target="_blank">Add products with variations</a>, Are you happy with recommedation?
+How to add products using listing loader?
+Please refer to share links, which provide guidance on Add products using Listing Loader <a href="https://sellercentral.amazon.in/learn/courses?ref_=su_in_helphome_c3_m115&moduleId=115&modLanguage=English&videoPlayer=youtube" target="_blank">Add products using Listing Loader</a>, Are you happy with recommedation?
+Need help with GTIN Exemption
+Please refer to share links, which provide guidance on GTIN Exemption <a href="https://sellercentral.amazon.in/gp/help/help.html?itemID=76CKD49WK7SZDV8&language=en_IN&ref=ag_76CKD49WK7SZDV8_cont_G201403390" target="_blank">GTIN Exemption Guide</a>, Are you happy with recommedation? 
+Need help with Product ID Exemption
+Please refer to share links, which provide guidance on Product ID Exemption <a href="https://sellercentral.amazon.in/gp/help/help.html?itemID=76CKD49WK7SZDV8&language=en_IN&ref=ag_76CKD49WK7SZDV8_cont_G201403390" target="_blank">GTIN Exemption Guide</a>, Are you happy with recommedation? 
+Category Approvals
+Please refer to share links, which provide guidance on Category Approvals <a href="https://sellercentral.amazon.in/gp/help/help.html?itemID=76CKD49WK7SZDV8&language=en_IN&ref=ag_76CKD49WK7SZDV8_cont_G201403390" target="_blank">GTIN Exemption Guide</a>, Are you happy with recommedation? 
+What is GTIN?
+Please refer to share links, which provide guidance on GTIN? <a href="https://sellercentral.amazon.in/gp/help/help.html?itemID=76CKD49WK7SZDV8&language=en_IN&ref=ag_76CKD49WK7SZDV8_cont_G201403390" target="_blank">GTIN Exemption Guide</a>, Are you happy with recommedation?
+GTIN/Product ID Exemption and Category Approvals
+Please refer to share links, which provide guidance on GTIN/Product ID Exemption and Category Approvals <a href="https://sellercentral.amazon.in/gp/help/help.html?itemID=76CKD49WK7SZDV8&language=en_IN&ref=ag_76CKD49WK7SZDV8_cont_G201403390" target="_blank">GTIN Exemption Guide</a>, Are you happy with recommedation?
+Need help with Country of Origin
+Please refer to share links, which provide guidance on Country of Origin <a href="https://sellercentral.amazon.in/learn/courses?ref_=selleru_athena&courseId=3&moduleId=bab681aa-d2b6-4542-89e9-8a41b527be40&modLanguage=English&contentType=VIDEO&category=TUTORIAL&videoPlayer=youtube" target="_blank">Country of Origin Guide</a>, Are you happy with recommedation?
+What is Country of Origin?
+Please refer to share links, which provide guidance on Country of Origin <a href="https://sellercentral.amazon.in/learn/courses?ref_=selleru_athena&courseId=3&moduleId=bab681aa-d2b6-4542-89e9-8a41b527be40&modLanguage=English&contentType=VIDEO&category=TUTORIAL&videoPlayer=youtube" target="_blank">Country of Origin Guide</a>, Are you happy with recommedation?
+GST
+Please refer to share links, which provide guidance on GST <a href="https://sellercentral.amazon.in/learn/courses?ref_=su_in_helphome_c134_m528&moduleId=528&modLanguage=English&videoPlayer=youtube" target="_blank">GST Guide</a>, Are you happy with recommedation?
+What is GST?
+Please refer to share links, which provide guidance on GST <a href="https://sellercentral.amazon.in/learn/courses?ref_=su_in_helphome_c134_m528&moduleId=528&modLanguage=English&videoPlayer=youtube" target="_blank">GST Guide</a>, Are you happy with recommedation?
+Need help with GST
+Please refer to share links, which provide guidance on GST <a href="https://sellercentral.amazon.in/learn/courses?ref_=su_in_helphome_c134_m528&moduleId=528&modLanguage=English&videoPlayer=youtube" target="_blank">GST Guide</a>, Are you happy with recommedation?
+Updating GST details on seller central
+Please refer to share links, which provide guidance on GST <a href="https://sellercentral.amazon.in/learn/courses?ref_=su_in_helphome_c134_m504&moduleId=504&modLanguage=English" target="_blank">Updating GST Guide</a>, Are you happy with recommedation?
+How to update GST on seller central
+Please refer to share links, which provide guidance on GST <a href="https://sellercentral.amazon.in/learn/courses?ref_=su_in_helphome_c134_m504&moduleId=504&modLanguage=English" target="_blank">Updating GST Guide</a>, Are you happy with recommedation?
+Updating GST
+Please refer to share links, which provide guidance on GST <a href="https://sellercentral.amazon.in/learn/courses?ref_=su_in_helphome_c134_m504&moduleId=504&modLanguage=English" target="_blank">Updating GST Guide</a>, Are you happy with recommedation?
+Update GST
+Please refer to share links, which provide guidance on GST <a href="https://sellercentral.amazon.in/learn/courses?ref_=su_in_helphome_c134_m504&moduleId=504&modLanguage=English" target="_blank">Updating GST Guide</a>, Are you happy with recommedation?
